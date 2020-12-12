@@ -10,5 +10,6 @@
 
 Спробуємо завантажити hello2.ko, не завантажуючи hello1.ko.
 Результат: помилка, оскільки hello2.ko залежить від функції hello_func з hello1.ko
+
 ![image](screenshots/7.png)
 
